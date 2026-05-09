@@ -3,7 +3,7 @@ I am Emmanuel Wachira, a front-end developer passionate about building clean, us
 
 ## Projects Included
 - Portfolio Website  
-- Social App UI Concept  
+- Task manager app  
 - Landing Page Design  
 
 ## Contact
